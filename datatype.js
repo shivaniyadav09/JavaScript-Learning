@@ -22,7 +22,7 @@ string => " "
 boolean => true/false 
 null = standalone value 
 undefined = not assign any value 
-symbol => unique
+symbol => unique(use for making the value unique)
 
 object----------
 
